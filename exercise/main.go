@@ -1,10 +1,11 @@
 package main
 
 import (
-	"go_advance/exercise/wraperror"
+	"go_advance/exercise/cocurrent"
 )
 
 func main() {
 	//db.ConnectDB()
-	wraperror.GetDBData()
+	//wraperror.GetDBData()
+	cocurrent.ServerStart()
 }
