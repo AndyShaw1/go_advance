@@ -1,0 +1,4 @@
+cmd/rdbtools/rdbtools
+cmd/genrdb/genrdb
+*.rdb
+!dumps/*
